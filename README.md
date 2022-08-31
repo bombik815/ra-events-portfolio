@@ -1,6 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/42h0ychipbdxht6l/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-events-portfolio/branch/main)
 
 [Портфолио с фильтрами](https://bombik815.github.io/ra-events-portfolio/)
+
 ===
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
